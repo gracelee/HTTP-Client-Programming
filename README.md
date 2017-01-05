@@ -1,2 +1,2 @@
-# minigame
-Building up Unity game developing skill  
+# HTTP Programming by Grace Lee
+
